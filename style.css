@@ -1,0 +1,26 @@
+.display-4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0em;
+    text-align: center;
+    height: 20px;
+    width: 100%;
+}
+
+.card {
+    margin-left: 50px;
+}
+
+.nav-bar {
+    margin-bottom: 10px;
+}
+
+.card-footer {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.card-text {
+    font-size: 18px;
+}
